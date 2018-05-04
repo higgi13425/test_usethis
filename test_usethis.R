@@ -5,6 +5,8 @@
 # initiated new project in Rstudio
 # in a new directory 'test'
 # checked boxes for using git, using packrat
+# vignette to set up usethis is here:
+  #  https://github.com/r-lib/usethis/blob/master/vignettes/articles/usethis-setup.Rmd
 # in Console
   # installed usethis
   # installed writexl as demo to write file
