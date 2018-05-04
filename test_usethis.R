@@ -13,4 +13,6 @@ usethis::use_github(higgi13425/test_usethis.git)
 
 data <- data.frame(1:10,11:20,21:30)
 
+# in terminal: "git push -u origin master"
 # now use Git tab to Stage, Commit, and Push
+
